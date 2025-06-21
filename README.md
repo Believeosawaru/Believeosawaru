@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Believeosawaru
-- 👀 I’m interested in Website Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m an expert in Website And Mobile App Development
+- 🌱 I’m currently learning LYNX - A cross-platform framework designed by ByteDance, the founders of TikTok
 - 💞️ I’m looking to collaborate on Website Development Projects
 - 📫 You can reach me via gmail @ believeosawaru2@gmail.com
 
